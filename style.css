@@ -1,0 +1,29 @@
+h1 {
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.reset {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.container {
+    height: 502px;
+    width: 502px;
+    border: 1px solid black;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    display: flex;
+	flex-wrap: wrap;
+}
+
+#gridBox {
+    border: 1px solid black;
+}
