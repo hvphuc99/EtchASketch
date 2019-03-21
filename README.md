@@ -1,2 +1,2 @@
 # Etch A Sketch
-[]Play
+[Play](https://hvphuc99.github.io/EtchASketch/)
